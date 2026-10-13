@@ -1,0 +1,20 @@
+################################################################################
+## CGfusion
+# conda create -n CGfusion python=3.9
+# conda activate CGfusion
+################################################################################
+
+jupyter==1.1.1
+networkx==3.2.1
+pandas==2.3.3
+seaborn==0.13.2
+causal-learn==0.1.4.3
+gcastle==1.0.4  
+pgmpy==1.0.0    
+dowhy==0.14
+econml==0.16.0
+causalml==0.15.5
+pygraphviz==1.10
+pdf2image==1.17.0  
+rpy2==3.6.4 
+
