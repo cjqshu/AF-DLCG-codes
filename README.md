@@ -26,7 +26,7 @@ AF-DLCG-codes/
     └─utils
 ```
 
-## 🚀 How To Run
+## How To Run
 
 
 ### Causal Graphs Fusion Task
